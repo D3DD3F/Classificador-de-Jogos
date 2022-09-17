@@ -1,9 +1,8 @@
 * {
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    } 
+} 
 
     ul {
         list-style: none;
@@ -164,3 +163,4 @@ section p {
             opacity: 1;
             transform: translateY(0)
     }
+}
